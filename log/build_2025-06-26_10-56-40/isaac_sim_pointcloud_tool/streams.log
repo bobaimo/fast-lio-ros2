@@ -1,0 +1,33 @@
+[0.007s] Invoking command in '/home/aimo/livox_ws/build/isaac_sim_pointcloud_tool': /usr/bin/cmake /home/aimo/livox_ws/src/isaac_sim_pointcloud_tool -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/aimo/livox_ws/install/isaac_sim_pointcloud_tool
+[0.088s] -- The C compiler identification is GNU 11.4.0
+[0.161s] -- The CXX compiler identification is GNU 11.4.0
+[0.168s] -- Detecting C compiler ABI info
+[0.210s] -- Detecting C compiler ABI info - done
+[0.213s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.214s] -- Detecting C compile features
+[0.214s] -- Detecting C compile features - done
+[0.216s] -- Detecting CXX compiler ABI info
+[0.261s] -- Detecting CXX compiler ABI info - done
+[0.262s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.262s] -- Detecting CXX compile features
+[0.262s] -- Detecting CXX compile features - done
+[0.269s] -- Configuring incomplete, errors occurred!
+[0.269s] See also "/home/aimo/livox_ws/build/isaac_sim_pointcloud_tool/CMakeFiles/CMakeOutput.log".
+[0.269s] [31mCMake Error at CMakeLists.txt:10 (find_package):
+[0.269s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[0.269s]   asked CMake to find a package configuration file provided by "catkin", but
+[0.269s]   CMake did not find one.
+[0.269s] 
+[0.269s]   Could not find a package configuration file provided by "catkin" with any
+[0.270s]   of the following names:
+[0.270s] 
+[0.270s]     catkinConfig.cmake
+[0.270s]     catkin-config.cmake
+[0.270s] 
+[0.270s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[0.270s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[0.270s]   provides a separate development package or SDK, be sure it has been
+[0.270s]   installed.
+[0.270s] 
+[0.270s] [0m
+[0.278s] Invoked command in '/home/aimo/livox_ws/build/isaac_sim_pointcloud_tool' returned '1': /usr/bin/cmake /home/aimo/livox_ws/src/isaac_sim_pointcloud_tool -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/aimo/livox_ws/install/isaac_sim_pointcloud_tool

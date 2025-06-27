@@ -1,0 +1,9 @@
+source;share/point_cloud_convertor/hook/pythonpath.ps1
+source;share/point_cloud_convertor/hook/pythonpath.dsv
+source;share/point_cloud_convertor/hook/pythonpath.sh
+source;share/point_cloud_convertor/hook/ament_prefix_path.ps1
+source;share/point_cloud_convertor/hook/ament_prefix_path.dsv
+source;share/point_cloud_convertor/hook/ament_prefix_path.sh
+source;../../build/point_cloud_convertor/share/point_cloud_convertor/hook/pythonpath_develop.ps1
+source;../../build/point_cloud_convertor/share/point_cloud_convertor/hook/pythonpath_develop.dsv
+source;../../build/point_cloud_convertor/share/point_cloud_convertor/hook/pythonpath_develop.sh

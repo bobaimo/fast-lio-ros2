@@ -1,0 +1,2 @@
+Invoking command in '/home/aimo/livox_ws/build/isaac_sim_pointcloud_tool': /usr/bin/cmake /home/aimo/livox_ws/src/isaac_sim_pointcloud_tool -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/aimo/livox_ws/install/isaac_sim_pointcloud_tool
+Invoked command in '/home/aimo/livox_ws/build/isaac_sim_pointcloud_tool' returned '1': /usr/bin/cmake /home/aimo/livox_ws/src/isaac_sim_pointcloud_tool -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/aimo/livox_ws/install/isaac_sim_pointcloud_tool
