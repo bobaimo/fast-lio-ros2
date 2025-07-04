@@ -1,0 +1,1 @@
+/home/aimo/livox_ws/build/pcd2pgm/ament_cmake_environment_hooks/local_setup.bash

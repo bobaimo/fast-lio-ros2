@@ -1,0 +1,37 @@
+[0.006s] Invoking command in '/home/aimo/livox_ws/build/pcd2pgm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aimo/livox_ws/install/point_cloud_convertor:/opt/ros/humble /usr/bin/cmake --build /home/aimo/livox_ws/build/pcd2pgm -- -j20 -l20
+[0.032s] [35m[1mConsolidate compiler generated dependencies of target pcd2pgm_node[0m
+[0.032s] [35m[1mConsolidate compiler generated dependencies of target pcd2pgm[0m
+[0.040s] [ 50%] Built target pcd2pgm_node
+[0.044s] [100%] Built target pcd2pgm
+[0.050s] Invoked command in '/home/aimo/livox_ws/build/pcd2pgm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aimo/livox_ws/install/point_cloud_convertor:/opt/ros/humble /usr/bin/cmake --build /home/aimo/livox_ws/build/pcd2pgm -- -j20 -l20
+[0.054s] Invoking command in '/home/aimo/livox_ws/build/pcd2pgm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aimo/livox_ws/install/point_cloud_convertor:/opt/ros/humble /usr/bin/cmake --install /home/aimo/livox_ws/build/pcd2pgm
+[0.059s] -- Install configuration: "release"
+[0.059s] -- Execute custom install script
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/lib/pcd2pgm/pcd2pgm_node
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/include/pcd2pgm/pcd2pgm.hpp
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/environment/library_path.sh
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/environment/library_path.dsv
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/lib/libpcd2pgm.so
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/config/pcd2pgm.yaml
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/launch/pcd2pgm_launch.py
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/rviz/pcd2pgm.rviz
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/ament_index/resource_index/package_run_dependencies/pcd2pgm
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/ament_index/resource_index/parent_prefix_path/pcd2pgm
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/environment/ament_prefix_path.sh
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/environment/ament_prefix_path.dsv
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/environment/path.sh
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/environment/path.dsv
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/local_setup.bash
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/local_setup.sh
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/local_setup.zsh
+[0.059s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/local_setup.dsv
+[0.059s] -- Symlinking: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/package.dsv
+[0.064s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/ament_index/resource_index/packages/pcd2pgm
+[0.064s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/ament_index/resource_index/rclcpp_components/pcd2pgm
+[0.064s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.064s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.064s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/cmake/ament_cmake_export_libraries-extras.cmake
+[0.064s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/cmake/pcd2pgmConfig.cmake
+[0.064s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/cmake/pcd2pgmConfig-version.cmake
+[0.064s] -- Up-to-date symlink: /home/aimo/livox_ws/install/pcd2pgm/share/pcd2pgm/package.xml
+[0.066s] Invoked command in '/home/aimo/livox_ws/build/pcd2pgm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aimo/livox_ws/install/point_cloud_convertor:/opt/ros/humble /usr/bin/cmake --install /home/aimo/livox_ws/build/pcd2pgm

@@ -1,11 +1,11 @@
 #----------------------------------------------------------------
-# Generated CMake target import file for configuration "Release".
+# Generated CMake target import file for configuration "release".
 #----------------------------------------------------------------
 
 # Commands may need to know the format version.
 set(CMAKE_IMPORT_FILE_VERSION 1)
 
-# Import target "fast_lio::fast_lio__rosidl_generator_py" for configuration "Release"
+# Import target "fast_lio::fast_lio__rosidl_generator_py" for configuration "release"
 set_property(TARGET fast_lio::fast_lio__rosidl_generator_py APPEND PROPERTY IMPORTED_CONFIGURATIONS RELEASE)
 set_target_properties(fast_lio::fast_lio__rosidl_generator_py PROPERTIES
   IMPORTED_LOCATION_RELEASE "${_IMPORT_PREFIX}/lib/libfast_lio__rosidl_generator_py.so"
